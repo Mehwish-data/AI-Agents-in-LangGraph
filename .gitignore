@@ -1,0 +1,5 @@
+# Ignore local environment and cache files
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
